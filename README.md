@@ -6,4 +6,4 @@ Code that seems to work okay, but needs a lot of work. Much of the code feels li
 
 2. Attempted to implement abstract factory, flywieght, and singleton. Code was a mess b/c I couldn't understand how to properly use the parser at the time. I also didn't use pointers -- I got annoyed at things not working for seemingly no reason... Will fix and properly use new / delete (or C11 smart pointers) over the summer.
 
-Note: These aren't the completed copies, as I moved over to Visual Studio to test the software on a windows system.
+Note: These aren't the completed copies, as I moved over to Visual Studio to test the software on a windows system and made many edits there.
